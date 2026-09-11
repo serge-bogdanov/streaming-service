@@ -1,0 +1,9 @@
+import "@a1rth/css-normalize";
+import "./fonts.scss";
+import "./variables.scss";
+import "./utils.scss";
+import "./globals.scss";
+import "@/sections/Hero/Hero.scss";
+import "@/layouts/Section/Section.scss";
+import "@/components/CategoryCard/CategoryCard.scss";
+import "@/components/Slider/components/SliderNavigation/SliderNavigation.scss";
