@@ -3,8 +3,7 @@
 > A modern streaming service interface for discovering movies and TV shows.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-e50914?style=for-the-badge&logo=github)](https://serge-bogdanov.github.io/streaming-service/)
-[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Minista](https://img.shields.io/badge/Minista-Static%20Site%20Generator-111111?style=for-the-badge)](https://minista.qranoko.jp/)
 [![SCSS](https://img.shields.io/badge/SCSS-Sass-cf649a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Swiper](https://img.shields.io/badge/Swiper-Sliders-6332f6?style=for-the-badge)](https://swiperjs.com/)
 
@@ -12,13 +11,11 @@
 
 StreamVibe is a responsive streaming service landing page built to feel like a real movie platform: bold visuals, clear content discovery, and smooth navigation across desktop and mobile. The interface includes a hero section, category browsing, responsive sliders, reusable navigation controls, and a mobile overlay menu.
 
-This project focuses on turning a visual concept into a structured, reusable frontend with a clean component architecture and carefully organized styling.
+This project focuses on turning a visual concept into a structured, reusable Minista site with a clean component architecture and carefully organized styling.
 
 ## Tech Stack
 
-- **React 19** - component-based UI and reusable page sections
-- **Minista** - static site generation and project build tooling
-- **Vite** - fast development server and production bundling
+- **Minista** - static site generation from JSX and project build tooling
 - **SCSS / Sass** - variables, mixins, responsive helpers, and modular component styles
 - **Swiper** - touch-friendly content sliders and navigation
 - **CSS Normalize** - consistent base styles across browsers
@@ -41,7 +38,7 @@ npm run preview
 ## Project Highlights
 
 - Responsive layout for desktop, tablet, and mobile screens
-- Reusable React components for buttons, icons, sliders, cards, and navigation
+- Reusable JSX components for buttons, icons, sliders, cards, and navigation
 - Sass design system with shared variables, functions, mixins, and breakpoints
 - SVG sprite icons for lightweight and consistent UI controls
 - Static production-ready build powered by Minista and Vite
